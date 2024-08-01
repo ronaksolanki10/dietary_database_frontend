@@ -48,6 +48,14 @@ REACT_APP_API_BASE_URL=<YOUR_API_BASE_URL>
 1. Food Items - use CSV with header columns ```name```, ```category``` & ```iddsi_levels```, please look at ```food_items.csv``` sample file for your reference
 2. Residents - use CSV with header columns ```name``` & ```iddsi_level```, please look at ```residents.csv``` sample file for your reference
 
+## Credentials to login
+username - ```dan_kitchtech```
+password - ```test123```
+
+username - ```ronak_kitchtech```
+password - ```test123```
+
+
 ## Feedback
 
 If you have any feedback or query, please feel free to reach out to me at ronaksolanki1310@gmail.com
